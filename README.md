@@ -1,3 +1,4 @@
+# MicroPost
 Welcome to MicroPost!
 
 MicroPost is a simple internet messaging program written in Java. There are two parts to this program: MPServer, which allows users to create messaging servers, and MPClient, which allows users to connect to servers and chat with one another. In its current form, it is sort of like an IRC messenger, though additional features are being planned to enhance the user experience. It has been tested on Linux (Ubuntu) and Windows for portability. This repository contains the executable .jar files and source .java files in the "jar" and "src" folders respectively. Here is a brief overview of these folders' contents:
@@ -13,4 +14,3 @@ Autoban - automatically remove very unpopular messages based on votes
 Autopin - automatically pin very popular messages to the server banner based on votes, identity of poster is hidden
 
 Thanks for reading, and let me know if I should change or fix anything!
-# MicroPost
